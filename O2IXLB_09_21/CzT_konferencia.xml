@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<konferencia>
+
+	<cim>
+	</cim>
+	
+	<hallgatok>
+	
+		<hallgato>
+	
+			<nev>
+				Barna Piroska 
+			</nev>
+	
+			<lakcim>
+				12345, ProbaVaros, Kamu utca 1. 
+			</lakcim>
+		
+		</hallgato>
+			
+	</hallgatok>
+	
+	<helyszin>
+		Miskolc Hadirokkantak utca 12.
+	</helyszin>
+	
+	<eloado>
+
+		<nev>
+			Bodza Rózsa
+		</nev>
+		
+		<adoszam>
+			123 abc 456 def
+		</adomszam>
+		
+		<lakcim>
+			12345 ProbaVaros, Kamu utca 2.
+		</lakcim>
+
+	</elado>
+
+	<datum>
+		09/09/1999
+	</datum>
+	
+</konferencia>
