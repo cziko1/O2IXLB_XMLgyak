@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE CzT_konyv SYSTEM "CzT_konyv.dtd">
+
+<konyvek>
+	<konyv id="BP1">
+		<cim>Programozas Alapjai</cim>
+		<ev>2020</ev>
+		<kiado>Oxford kiado</kiado>
+		<szerzo>Szerzo Bela</szerzo>
+		<absztrakt>qwetyQWERTY12345_ZUIOP-ikjli</absztrakt>
+	</konyv>
+
+	<konyv id="BP2">
+		<cim>Objektum Orientalt Programozas</cim>
+		<ev>2021</ev>
+		<kiado>Bookworms</kiado>
+		<szerzo>Iro July</szerzo>
+		<absztrakt> neofnwoefnho-hsdbguzrbvsrdrger</absztrakt>
+	</konyv>
+
+	<konyv id="BP3">
+		<cim>How to use PyCharm</cim>
+		<ev>2022</ev>
+		<kiado>Programing kiado</kiado>
+		<szerzo>Programozo Szabi</szerzo>
+		<absztrakt>nevi-uwehsnkc.alkerpiqohrandmer<absztrakt>
+	</konyv>
+</konyvek>
