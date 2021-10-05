@@ -1,0 +1,9 @@
+<DOCTYPE Orarend [
+<!ELEMENT Orarend (Ora)+>
+<!ELEMENT Ora (Tantargy,Idopont,Helyszin,Oktato,Szak)>
+<!ELEMENT Targy (#PCDATA)>
+<!ELEMENT Idopont (#PCDATA)>
+<!ELEMENT Helyszin (#PCDATA)>
+<!ELEMENT Oktato (#PCDATA)>
+<!ELEMENT Szak (#PCDATA)>
+]>
