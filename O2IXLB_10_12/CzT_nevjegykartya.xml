@@ -1,0 +1,45 @@
+
+<nevjegykartyak>
+
+    <nevjegykartya id="01">
+
+        <nev>
+            <telefonszam>123456789</telefonszam>
+            <weblap>www.abcdefghijklmn.org</weblap>
+        </nev>
+        <ceg>
+            <nev>FarmerAlma</nev>
+            <cim>
+                <iranyitoszam>12345</iranyitoszam>
+                <varos>Novi mesto</varos>
+                <utca>Ulice 12/A utca</utca>
+                <hazszam></hazszam>
+            </cim>
+        </ceg>
+        <beosztas>Alam szedő</beosztas>
+        <telefonszam>+36307341287</telefonszam>
+        <email>imelcim@gmail.com</email>
+
+    </nevjegykartya>
+
+    <nevjegykartya id="02">
+
+        <nev>
+            <telefonszam>987654321</telefonszam>
+            <weblap>www.nmlkjihgfedcba.org</weblap>
+        </nev>
+        <ceg>
+            <nev>SzőlőSzabolcs</nev>
+            <cim>
+                <iranyitoszam>54321</iranyitoszam>
+                <varos>Stare mesto</varos>
+                <utca>Route 34/b utac</utca>
+                <hazszam></hazszam>
+            </cim>
+        </ceg>
+        <beosztas>Szőlő szüretelő</beosztas>
+        <telefonszam>+36309786461</telefonszam>
+        <email>guglecim@gmail.com</email>
+
+    </nevjegykartya>
+</nevjegykartyak>

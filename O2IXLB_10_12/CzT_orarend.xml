@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orarend>
+    <ora id="1" tipus="Elmelet">
+        <targy>WebTech</targy>
+        <idopont nap="Hetfo" tol="12" ig="14"></idopont> 
+        <helyszin>A/1 305 ea.</helyszin>
+        <oktato>Agardi Anita</oktato>
+        <szak>programtervezo</szak>
+    </ora>
+    <ora id="2" tipus="Gyakorlat">
+        <targy>Mesterseges Inteligencia</targy>
+        <idopont nap="Hetfo" tol="14" ig="17"></idopont> 
+        <helyszin>XXXII</helyszin>
+        <oktato>Dr. Dudas Laszlo</oktato>
+        <szak>programtervezo</szak>
+    </ora>
+    <ora id="3" tipus="Elmelet">
+        <targy>XML</targy>
+        <idopont nap="Kedd" tol="12" ig="14"></idopont> 
+        <helyszin>A/1 1 ea.</helyszin>
+        <oktato>Dr. Bednarik Laszlo</oktato>
+        <szak>programtervezo</szak>
+    </ora>
+    <ora id="4" tipus="Gyakorlat">
+        <targy>XML</targy>
+        <idopont nap="Kedd" tol="14" ig="16"></idopont> 
+        <helyszin>Inf 103.</helyszin>
+        <oktato>Dr. Bendarik Laszlo</oktato>
+        <szak>programtervezo</szak>
+    </ora>
+	    <ora id="5" tipus="Gyakorlat">
+        <targy>WebTech</targy>
+        <idopont nap="Kedd" tol="16" ig="18"></idopont> 
+        <helyszin>Inf 103.</helyszin>
+        <oktato>Agardi Anite</oktato>
+        <szak>programtervezo</szak>
+    </ora>
+	    <ora id="6" tipus="Elmelet">
+        <targy>Szoftech</targy>
+        <idopont nap="Szerda" tol="8" ig="10"></idopont> 
+        <helyszin>A/1 305 ea.</helyszin>
+        <oktato>Mileff Peter</oktato>
+        <szak>programtervezo</szak>
+    </ora>
+	    <ora id="7" tipus="Gyakorlat">
+        <targy>Mesterseges Inteligencia</targy>
+        <idopont nap="Szerda" tol="10" ig="12"></idopont> 
+        <helyszin>Inf 5.</helyszin>
+        <oktato> Dr. Dudas Laszlo</oktato>
+        <szak>programtervezo</szak>
+    </ora>
+	    <ora id="4" tipus="Gyakorlat">
+        <targy>Vallalati Informacios Rendszerek</targy>
+        <idopont nap="Szerda" tol="14" ig="18"></idopont> 
+        <helyszin>Inf 102.</helyszin>
+        <oktato>Dr. Vasvari Laszlo</oktato>
+        <szak>programtervezo</szak>
+    </ora>
+</orarend>
