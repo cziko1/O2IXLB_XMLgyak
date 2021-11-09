@@ -1,0 +1,27 @@
+<?xml-model href="studentO2IXB.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<class>
+    <student>
+        <id>111</id>
+        <firstname>   Tivadar</firstname>
+        <lastname>    Cziko</lastname>
+        <nickname>    cziko1</nickname>
+        <age>    22</age>
+    </student>
+
+    <student>
+        <id>222</id>
+        <firstname>   Jean</firstname>
+        <lastname>    The Citizen</lastname>
+        <nickname>    Mayor</nickname>
+        <age>    23</age>
+    </student>
+
+    <student>
+        <id>333</id>
+        <firstname>   Boris</firstname>
+        <lastname>    johnson</lastname>
+        <nickname>    British Prime Minister</nickname>
+        <age>    24</age>
+    </student>
+</class>
