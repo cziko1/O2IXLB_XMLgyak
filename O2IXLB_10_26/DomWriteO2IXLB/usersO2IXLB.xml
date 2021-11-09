@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<usersO2IXLB xmlns="D:\UniversityOfMiskolc\University\2021_22_1\XML\O2IXLB_10_26">
+  <user id="101">
+    <firstname>Robert</firstname>
+    <lastname>Brown</lastname>
+    <proffesional>programmer</proffesional>
+  </user>
+  <user id="102">
+    <firstname>Pamela</firstname>
+    <lastname>Kyle</lastname>
+    <proffesional>writer</proffesional>
+  </user>
+  <user id="103">
+    <firstname>Peter</firstname>
+    <lastname>Smith</lastname>
+    <proffesional>teacher</proffesional>
+  </user>
+</usersO2IXLB>

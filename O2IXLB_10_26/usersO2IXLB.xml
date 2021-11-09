@@ -1,0 +1,25 @@
+ 
+<users>  
+    
+    <user>  
+        <id>101</id>  
+        <firstname>Tivadar</firstname>  
+        <lastname>Cziko</lastname>  
+        <Proffessional>Software Engineer</Proffessional>
+    </user>  
+      
+    <user>  
+        <id>102</id>  
+        <firstname>Johnatan</firstname>  
+        <lastname>Eriksen</lastname>  
+        <Proffessional>Mechanical Engineer</Proffessional>
+    </user>
+  
+    <user>  
+        <id>103</id>  
+        <firstname>Tivadar</firstname>  
+        <lastname>Cziko</lastname>  
+        <Proffessional>Techninal Manager</Proffessional>
+    </user> 
+
+</users>

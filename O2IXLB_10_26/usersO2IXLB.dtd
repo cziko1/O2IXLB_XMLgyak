@@ -1,0 +1,6 @@
+<!ELEMENT users (user+)>
+<!ELEMENT user (firstname,lastname,profession)>
+<!ATTLIST user id NMTOKEN #REQUIRED>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT profession (#PCDATA)>
