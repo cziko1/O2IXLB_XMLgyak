@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="CzT_konyv.xsd"?>
+<bookShop>
+    <book id = "101">
+        <title>Natural language processing</title>
+        <published>2005</published>
+        <author>Gobinda G. Chowdhury</author>
+        <abstract></abstract>
+    </book>
+    <book id="202">
+        <title>Programming Python</title>
+        <published>2001</published>
+        <author>Mark Lutz</author>
+        <abstract></abstract>
+    </book>
+    <book id="303">
+        <title>The Essence of JavaScript</title>
+        <published>2010</published>
+        <author>Arjun Guha</author>
+        <author>Claudiu Saftoiu</author>
+        <author>Shriram Krishnamurthi</author>
+        <abstract></abstract>
+    </book>
+ </bookShop>
