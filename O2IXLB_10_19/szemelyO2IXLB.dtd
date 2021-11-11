@@ -1,0 +1,10 @@
+
+
+
+<!ELEMENT szemelyek (szemely+)>
+<!ELEMENT szemely (nev,varos,kor)>
+<!ATTLIST szemely id NMTOKEN #REQUIRED>
+<!ELEMENT nev (sajat_nev)>
+<!ELEMENT sajat_nev (#PCDATA)>
+<!ELEMENT varos (#PCDATA)>
+<!ELEMENT kor (#PCDATA)>

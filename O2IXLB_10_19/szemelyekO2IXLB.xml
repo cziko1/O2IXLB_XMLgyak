@@ -1,0 +1,25 @@
+<szemelyek>
+    <szemely id= "a1">
+        <nev>
+            <sajat_nev>Margit</sajat_nev>
+        </nev>
+        <varos>Miskolc</varos>
+        <kor>22</kor>
+    </szemely>
+
+    <szemely id= "a2">
+        <nev>
+            <sajat_nev>Erzsébet</sajat_nev>
+        </nev>
+        <varos>Eger</varos>
+        <kor>25</kor>
+    </szemely>
+
+    <szemely id= "a3">
+        <nev>
+            <sajat_nev>Katerzina</sajat_nev>
+        </nev>
+        <varos>Kosice</varos>
+        <kor>19</kor>
+    </szemely>
+</szemelyek>
