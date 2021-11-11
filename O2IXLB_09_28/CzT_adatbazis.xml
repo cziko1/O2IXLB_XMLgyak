@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CzT_adatbazisSchema.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+ <!DOCTYPE adatbazis SYSTEM "CzT_adatbazis.dtd">
+<adatbazis>
+     <dolgozo id="111">
+         <nev>Gáspár László az Énekes</nev>
+         <fizetes>50000000</fizetes>
+
+     </dolgozo>
+ </adatbazis>

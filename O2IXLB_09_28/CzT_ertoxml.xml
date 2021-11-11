@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE task SYSTEM "CzT_ertodtd.dtd">
+<task>
+    <A Aa="101">
+        <Ab>
+            <Abx></Abx>
+            <Aby></Aby>
+        </Ab>
+        <Ac>
+            <Acd></Acd>
+            <Ace></Ace>
+        </Ac>
+    </A>
+    <A_B>
+        <A_Bc></A_Bc>
+    </A_B>
+    <B Ba="202">
+        <Bb>
+            <Bbx></Bbx>
+            <Bby></Bby>
+        </Bb>
+    </B>
+    <C Ca="303">
+        <Cb></Cb>
+    </C>
+</task>
