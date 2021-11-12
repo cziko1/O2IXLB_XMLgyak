@@ -37,7 +37,7 @@
         <id>555</id>
         <firstname>   Ali</firstname>
         <lastname>    Jamil</lastname>
-        <nickname>    JamiTime</nickname>
+        <nickname>    JameTime</nickname>
         <age>    20</age>
     </student>
     
@@ -61,7 +61,7 @@
         <id>888</id>
         <firstname>   Zdravko</firstname>
         <lastname>    Schuldenfrei</lastname>
-        <nickname>    Zdravo Minister</nickname>
+        <nickname>    Zdravo </nickname>
         <age>    22</age>
     </student>
     
