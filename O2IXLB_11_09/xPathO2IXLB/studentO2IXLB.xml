@@ -1,0 +1,82 @@
+
+<class>
+    <student>
+        <id>111</id>
+        <firstname>   Tivadar</firstname>
+        <lastname>    Cziko</lastname>
+        <nickname>    cziko1</nickname>
+        <age>    22</age>
+    </student>
+
+    <student>
+        <id>222</id>
+        <firstname>   Jean</firstname>
+        <lastname>    The Citizen</lastname>
+        <nickname>    Mayor</nickname>
+        <age>    23</age>
+    </student>
+
+    <student>
+        <id>333</id>
+        <firstname>   Boris</firstname>
+        <lastname>    johnson</lastname>
+        <nickname>    British Prime Minister</nickname>
+        <age>    24</age>
+    </student>
+    
+       <student>
+        <id>444</id>
+        <firstname>   Egor</firstname>
+        <lastname>    Kalashnikov</lastname>
+        <nickname>    Tachanka</nickname>
+        <age>    18</age>
+    </student>
+    
+       <student>
+        <id>555</id>
+        <firstname>   Ali</firstname>
+        <lastname>    Jamil</lastname>
+        <nickname>    JameTime</nickname>
+        <age>    20</age>
+    </student>
+    
+       <student>
+        <id>666</id>
+        <firstname>   Lucifer</firstname>
+        <lastname>    Avalon</lastname>
+        <nickname>    Hell Angle</nickname>
+        <age>    33</age>
+    </student>
+    
+       <student>
+        <id>777</id>
+        <firstname>   Wei Da</firstname>
+        <lastname>    Chen</lastname>
+        <nickname>    ChinaNumberOne</nickname>
+        <age>    30</age>
+    </student>
+    
+      <student>
+        <id>888</id>
+        <firstname>   Zdravko</firstname>
+        <lastname>    Schuldenfrei</lastname>
+        <nickname>    Zdravo </nickname>
+        <age>    22</age>
+    </student>
+    
+       <student>
+        <id>999</id>
+        <firstname>   Dobroslaw</firstname>
+        <lastname>    Furstenberg</lastname>
+        <nickname>    Slawo</nickname>
+        <age>    24</age>
+    </student>
+    
+       <student>
+        <id>333</id>
+        <firstname>   Peter</firstname>
+        <lastname>    Griffin</lastname>
+        <nickname>    Local Patriot</nickname>
+        <age>    27</age>
+    </student>
+</class>
