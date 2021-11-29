@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><mav>
+    <vonat id="VV1">
+        <vagonokszama>15</vagonokszama>
+        <mozdonyvezeto>
+            <keresztnev>Lazar</keresztnev>
+            <vezeteknev>Kovacs</vezeteknev>
+        </mozdonyvezeto>
+        <gyarto>Siemens Taurus</gyarto>
+        <gyartasiev>2007</gyartasiev>
+        <tipus>Teher</tipus>
+    <mVezetokor>35</mVezetokor></vonat>
+
+    <vonat id="V02">
+        <vagonokszama>6</vagonokszama>
+        <mozdonyvezeto>
+            <keresztnev>Tibor</keresztnev>
+            <vezeteknev>Schaffer</vezeteknev>
+        </mozdonyvezeto>
+        <gyarto>KISS</gyarto>
+        <gyartasiev>2013</gyartasiev>
+        <tipus>Személy vonat</tipus>
+    </vonat>
+
+    <vonat id="V03">
+        <vagonokszama>3</vagonokszama>
+        <mozdonyvezeto>
+            <keresztnev>Meastro</keresztnev>
+            <vezeteknev>Kipembe</vezeteknev>
+        </mozdonyvezeto>
+        <gyarto>FLirt</gyarto>
+        <gyartasiev>1995</gyartasiev>
+        <tipus>EC (Euro City)</tipus>
+    </vonat>
+
+    <kalauz id="k01">
+        <nev>
+            <keresztnev>Joe</keresztnev>
+            <vezeteknev>Johnson</vezeteknev>
+        </nev>
+        <munkaido_kezdete>07:30</munkaido_kezdete>
+        <munkaido_vege>15:00</munkaido_vege>
+    </kalauz>
+
+    <kalauz id="k02">
+        <nev>
+            <keresztnev>Erik</keresztnev>
+            <vezeteknev>Eriksen</vezeteknev>
+        </nev>
+        <munkaido_kezdete>08:30</munkaido_kezdete>
+        <munkaido_vege>15:30</munkaido_vege>
+    </kalauz>
+
+    <kalauz id="k03">
+        <nev>
+            <keresztnev>Vlad'imir</keresztnev>
+            <vezeteknev>Vlad'imirevich</vezeteknev>
+        </nev>
+        <munkaido_kezdete>07:50</munkaido_kezdete>
+        <munkaido_vege>18:00</munkaido_vege>
+    </kalauz>
+
+    <megallok id="mk01"> <!--azonosíto-->
+        <megallo_cime>
+            <iranyitoszam>3535</iranyitoszam>
+            <hazszam>25/A</hazszam>
+            <utca>Kando Kalman</utca>
+        </megallo_cime>
+    </megallok>
+
+    <megallok id="mk02"> <!--azonosíto-->
+        <megallo_cime>
+            <iranyitoszam>3738</iranyitoszam>
+            <hazszam>65/C</hazszam>
+            <utca>Petőfi Sándor</utca>
+        </megallo_cime>
+    </megallok>
+
+    <megallok id="mk03"> <!--azonosíto-->
+        <megallo_cime>
+            <iranyitoszam>3225</iranyitoszam>
+            <hazszam>75</hazszam>
+            <utca>Petőfi Sandor</utca>
+        </megallo_cime>
+    </megallok>
+
+    <megallok id="mk04"> <!--azonosíto-->
+        <megallo_cime>
+            <iranyitoszam>3132</iranyitoszam>
+            <hazszam>47/E</hazszam>
+            <utca>Berlini</utca>
+        </megallo_cime>
+    </megallok>
+
+    <megallok id="mk05"> <!--azonosíto-->
+        <megallo_cime>
+            <iranyitoszam>3354</iranyitoszam>
+            <hazszam>46/H</hazszam>
+            <utca>Bécsi</utca>
+        </megallo_cime>
+    </megallok>
+
+    <megallok id="mk06"> <!--azonosíto-->
+        <megallo_cime>
+            <iranyitoszam>3925</iranyitoszam>
+            <hazszam>87/B</hazszam>
+            <utca>Ballassi</utca>
+        </megallo_cime>
+    </megallok>
+
+    <megallok id="mk07"> <!--azonosíto-->
+        <megallo_cime>
+            <iranyitoszam>3865</iranyitoszam>
+            <hazszam>17/D</hazszam>
+            <utca>Mexikó Völgyi</utca>
+        </megallo_cime>
+    </megallok>
+
+    <megallok id="mk08"> <!--azonosíto-->
+        <megallo_cime>
+            <iranyitoszam>3672</iranyitoszam>
+            <hazszam>76</hazszam>
+            <utca>Eper</utca>
+        </megallo_cime>
+    </megallok>
+
+    
+
+
+
+    <utvonal elsomegallo_id="mk1" utolsomegallo="mk2" utvonal_id="u01" vonat_id="V01"> <!--Vonalszam -->
+        <tavolsag>75</tavolsag>
+        <kilometerAr>200</kilometerAr>
+    </utvonal>
+
+    <utvonal elsomegallo_id="mk1" utolsomegallo="mk3" utvonal_id="u02" vonat_id="V02"> <!--Vonalszam -->
+        <tavolsag>65</tavolsag>
+        <kilometerAr>170</kilometerAr>
+    </utvonal>
+
+    <utvonal elsomegallo_id="mk2" utolsomegallo="mk4" utvonal_id="u03" vonat_id="V03"> <!--Vonalszam -->
+        <tavolsag>55</tavolsag>
+        <kilometerAr>120</kilometerAr>
+    </utvonal>
+ 
+    <utvonal elsomegallo_id="mk8" utolsomegallo="mk1" utvonal_id="u04" vonat_id="V01"> <!--Vonalszam -->
+        <tavolsag>175</tavolsag>
+        <kilometerAr>1800</kilometerAr>
+    </utvonal>
+
+    <utvonal elsomegallo_id="mk7" utolsomegallo="mk6" utvonal_id="u05" voant_id="V02"> <!--Vonalszam -->
+        <tavolsag>125</tavolsag>
+        <kilometerAr>1260</kilometerAr>
+    </utvonal>
+
+    <utvonal elsomegallo_id="mk3" utolsomegallo="mk5" utvonal_id="u06" vonat_id="V03"> <!--Vonalszam -->
+        <tavolsag>200</tavolsag>
+        <kilometerAr>2000</kilometerAr>
+    </utvonal>
+
+
+    <menetrend kalauz_id="K01" utvonal_id="u01">
+        <indulasiido>07:40</indulasiido>
+        <erkezesiido>08:50</erkezesiido>
+    </menetrend>
+
+    <menetrend kalauz_id="K01" utvonal_id="u02">
+        <indulasiido>08:40</indulasiido>
+        <erkezesiido>10:40</erkezesiido>
+    </menetrend>
+
+    <menetrend kalauz_id="K01" utvonal_id="u03">
+        <indulasiido>08:10</indulasiido>
+        <erkezesiido>08:50</erkezesiido>
+    </menetrend>
+
+    <menetrend kalauz_id="K01" utvonal_id="u04">
+        <indulasiido>11:40</indulasiido>
+        <erkezesiido>13:50</erkezesiido>
+    </menetrend>
+
+    <menetrend kalauz_id="K01" utvonal_id="u05">
+        <indulasiido>12:40</indulasiido>
+        <erkezesiido>13:55</erkezesiido>
+    </menetrend>
+
+    <menetrend kalauz_id="K01" utvonal_id="u06">
+        <indulasiido>15:40</indulasiido>
+        <erkezesiido>17:00</erkezesiido>
+    </menetrend>
+</mav>

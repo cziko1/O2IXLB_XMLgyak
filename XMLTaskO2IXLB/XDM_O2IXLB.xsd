@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MAV's xml Schema -->
+<xs:schema attributeFormDefault="unqualified"
+           elementFormDefault="qualified"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="mav">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded"
+                    name="vonat">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="vagonokszama"
+                          type="xs:unsignedByte" />
+              <xs:element name="mozdonyvezeto">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="keresztnev"
+                                type="xs:string" />
+                    <xs:element name="vezeteknev"
+                                type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="gyarto"
+                          type="xs:string" />
+              <xs:element name="gyartasiev"
+                          type="xs:unsignedShort" />
+              <xs:element name="tipus"
+                          type="xs:string" />
+            </xs:sequence>
+            <xs:attribute name="id"
+                          type="xs:string"
+                          use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element maxOccurs="unbounded"
+                    name="kalauz">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nev">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="keresztnev"
+                                type="xs:string" />
+                    <xs:element name="vezeteknev"
+                                type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="munkaido_kezdete"
+                          type="xs:string" />
+              <xs:element name="munkaido_vege"
+                          type="xs:string" />
+            </xs:sequence>
+            <xs:attribute name="id"
+                          type="xs:string"
+                          use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element maxOccurs="unbounded"
+                    name="megallok">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="megallo_cime">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="iranyitoszam"
+                                type="xs:unsignedShort" />
+                    <xs:element name="hazszam"
+                                type="xs:string" />
+                    <xs:element name="utca"
+                                type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="id"
+                          type="xs:string"
+                          use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element maxOccurs="unbounded"
+                    name="utvonal">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tavolsag"
+                          type="xs:unsignedByte" />
+              <xs:element name="kilometerAr"
+                          type="xs:unsignedShort" />
+            </xs:sequence>
+            <xs:attribute name="utvonal_id"
+                          type="xs:string"
+                          use="required" />
+            <xs:attribute name="elsomegallo_id"
+                          type="xs:string"
+                          use="required" />
+            <xs:attribute name="utolsomegallo"
+                          type="xs:string"
+                          use="required" />
+            <xs:attribute name="vonat_id"
+                          type="xs:string"
+                          use="optional" />
+            <xs:attribute name="voant_id"
+                          type="xs:string"
+                          use="optional" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element maxOccurs="unbounded"
+                    name="menetrend">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="indulasiido"
+                          type="xs:string" />
+              <xs:element name="erkezesiido"
+                          type="xs:string" />
+            </xs:sequence>
+            <xs:attribute name="utvonal_id"
+                          type="xs:string"
+                          use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
