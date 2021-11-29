@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href ="students.xsl"?>
+
+
+<class>
+    <student id = "01">
+        <vezeteknev>Cziko</vezeteknev>
+        <keresztnev>Tivadar</keresztnev>
+        <becenev>陈伟达</becenev>
+        <kor>22</kor>
+
+    </student>
+    <student id = "02">
+        <vezeteknev>Harmony</vezeteknev>
+        <keresztnev>Rose</keresztnev>
+        <becenev>RoZey</becenev>
+        <kor>23</kor>
+
+    </student>
+    <student id = "03">
+        <vezeteknev>Kamion</vezeteknev>
+        <keresztnev>Kamilla</keresztnev>
+        <becenev>KamKam</becenev>
+        <kor>24</kor>
+
+    </student>
+
+</class>
