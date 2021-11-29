@@ -1,0 +1,56 @@
+<html>
+    <body>
+        <h2>Class apple-template</h2>
+         
+      id: <span style="font-size = 22px;">01</span>
+        <br>
+         
+      keresztnev: <span style="color:red;">Tivadar</span>
+        <br>
+         
+      vezeteknev: <span style="color:blue;">Cziko</span>
+        <br>
+        <span style="color:green;">陈伟达
+      </span> 
+      kor: <span style="color:yellow;">22</span>
+        <br>
+         
+      fizetes: <span style="color:pink;">200000</span>
+        <br>
+        <br>
+         
+      id: <span style="font-size = 22px;">02</span>
+        <br>
+         
+      keresztnev: <span style="color:red;">Harmony</span>
+        <br>
+         
+      vezeteknev: <span style="color:blue;">Rose</span>
+        <br>
+        <span style="color:green;">RoZey 
+      </span> 
+      kor: <span style="color:yellow;">23</span>
+        <br>
+         
+      fizetes: <span style="color:pink;">150000</span>
+        <br>
+        <br>
+         
+      id: <span style="font-size = 22px;">03</span>
+        <br>
+         
+      keresztnev: <span style="color:darkred;">Kamilla</span>
+        <br>
+         
+      vezeteknev: <span style="color:green;">Kamion</span>
+        <br>
+        <span style="color:black;">KamKam 
+      </span> 
+      kor: <span style="color:blue;">24</span>
+        <br>
+         
+      fizetes: <span style="color:red;">250000</span>
+        <br>
+        <br>
+    </body>
+</html>
