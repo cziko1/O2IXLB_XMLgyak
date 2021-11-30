@@ -43,7 +43,7 @@
 										<xsl:element name="fokozat">medium</xsl:element>
 									</td>
 								</xsl:when>
-								<xsl:when test="fizetes>'1500000'">
+								<xsl:when test="fizetes>'150000'">
 									<td>
 										<xsl:element name="fokozat">low</xsl:element>
 									</td>
