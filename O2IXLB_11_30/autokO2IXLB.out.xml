@@ -1,0 +1,49 @@
+<html>
+	<body>
+		<h2>Students</h2>
+		<table border="1">
+			<tr bgcolor="#F6358A">
+				<th>rsz</th>
+				<th>tipus</th>
+				<th>ar</th>
+				<th>piros</th>
+				<th>nev</th>
+				<th>varos</th>
+
+			</tr>
+			<tr>
+                <td>ABC-100</td>
+				<td>Fiat</td>
+				<td>21233</td>
+				<td>pirps</td>
+				<td>Zoltan</td>
+				<td>Eger</td>
+			</tr>
+			<tr>
+                <td>ABC-101</td>
+				<td>Skoda</td>
+				<td>44233</td>
+				<td>feher</td>
+				<td>Peter</td>
+				<td>Miskolc</td>
+			</tr>
+			<tr>
+                <td>ABC-102</td>
+				<td>Opel</td>
+				<td>31233</td>
+				<td>szurke</td>
+				<td>Tamas</td>
+				<td>Miskolc</td>
+			</tr>
+            <tr>
+                <td>ABC-103</td>
+				<td>Opel</td>
+				<td>21233</td>
+				<td>kek</td>
+				<td>Sandor</td>
+				<td>Miskolc</td>
+			</tr>
+                 
+		</table>
+	</body>
+</html>

@@ -1,0 +1,30 @@
+autok:
+  auto:
+    - tipus: Fiat
+      ar: '21233'
+      szin: piros
+      tulaj:
+        nev: Zoli
+        varos: Eger
+      _rsz: ABC-100
+    - tipus: Skoda
+      ar: '44233'
+      szin: feher
+      tulaj:
+        nev: Peter
+        varos: Miskolc
+      _rsz: ABC-101
+    - tipus: Opel
+      ar: '31233'
+      szin: szurke
+      tulaj:
+        nev: Tamas
+        varos: Miskolc
+      _rsz: ABC-102
+    - tipus: Opel
+      ar: '21322'
+      szin: kek
+      tulaj:
+        nev: Sandor
+        varos: Miskolc
+      _rsz: ABC-103

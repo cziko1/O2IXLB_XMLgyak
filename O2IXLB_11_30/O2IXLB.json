@@ -1,0 +1,53 @@
+{
+    "body": {
+       "h2": "Students",
+       "table": {
+          "@border": "1",
+          "tr": [
+             {
+                "@bgcolor": "#F6358A",
+                "th": [
+                   "rsz",
+                   "tipus",
+                   "ar",
+                   "piros",
+                   "nev",
+                   "varos"
+                ]
+             },
+             [
+                "ABC-100",
+                "Fiat",
+                "21233",
+                "pirps",
+                "Zoltan",
+                "Eger"
+             ],
+             [
+                "ABC-101",
+                "Skoda",
+                "44233",
+                "feher",
+                "Peter",
+                "Miskolc"
+             ],
+             [
+                "ABC-102",
+                "Opel",
+                "31233",
+                "szurke",
+                "Tamas",
+                "Miskolc"
+             ],
+             [
+                "ABC-103",
+                "Opel",
+                "21233",
+                "kek",
+                "Sandor",
+                "Miskolc"
+             ]
+          ]
+       }
+    }
+ }
